@@ -1,7 +1,3 @@
-Gracias por compartir el archivo CSS. Ahora, he actualizado el README para reflejar la información de los estilos que has implementado. Aquí tienes la versión actualizada:
-
----
-
 # Accessibility Quiz - HTML/CSS
 
 This project is an accessibility quiz built using HTML and CSS. It is designed to help users practice basic accessibility concepts such as correct form labeling and element usage for better screen reader support.
